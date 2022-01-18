@@ -7,7 +7,7 @@ Project Description:
   can also be removed, added, or updated. Checking out/in items reduces their availability attribute, so that
   items cannot be checked out if none are available in the system. This also adds the item to a Person's list
   of current items held. The library contains a sample of items found in a typical library: Book, DVD, and 
-  Magazine. More item classes could be added without changing the existing code. 
+  Magazine. More item classes could be added without changing the existing code.
 
 Possible improvements:
  - include a librarian (as an interface) who can apply the methods.
@@ -22,3 +22,4 @@ Contents:
  - Book (class) _child_
  - Magazine (class) _child_
  - Runner (class)
+ - LibraryTest (class)
